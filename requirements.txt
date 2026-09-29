@@ -1,4 +1,4 @@
-flask>=3.0
-gunicorn>=22.0
+flask
 boto3>=1.36
-werkzeug>=3.0
+werkzeug
+gunicorn
